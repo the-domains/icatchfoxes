@@ -1,0 +1,14 @@
+layout_spectrum: 0.4357683
+typography_spectrum: 0.01519067
+color:
+  saturation: 0.3772827
+  lightness: 0.6787062
+  brandStrength: 0.7797162
+  rhythmicContrast: 0.7390776
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: icatchfoxes
