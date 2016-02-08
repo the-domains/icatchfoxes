@@ -1,3 +1,7 @@
+name: icatchfoxes
+favicon: null
+layout_spectrum: 0.4357683
+typography_spectrum: 0.01519067
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3772827
-  brandStrength: 0.7544803
-  lightness: 0.6787062
   brandColors:
-    - '#0E3015'
-    - '#659A4B'
-    - '#E8BEA3'
-    - '#BD9980'
-    - '#F3D702'
-  rhythmicContrast: 0.7390776
-typography_spectrum: 0.01519067
-layout_spectrum: 0.4357683
-name: icatchfoxes
+    - '#d4e7e5'
+    - '#080806'
+    - '#6b7574'
+    - '#8fb8b1'
+    - '#0a506b'
+  brandStrength: 0.7544803
+  lightness: 0.5625
+  saturation: 0.5625
+  rhythmicContrast: 0.75
+purpose: []
