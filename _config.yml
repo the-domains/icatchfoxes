@@ -1,14 +1,26 @@
-layout_spectrum: 0.4357683
-typography_spectrum: 0.01519067
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.3772827
+  brandStrength: 0.7544803
   lightness: 0.6787062
-  brandStrength: 0.7797162
-  rhythmicContrast: 0.7390776
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#0E3015'
+    - '#659A4B'
+    - '#E8BEA3'
+    - '#BD9980'
+    - '#F3D702'
+  rhythmicContrast: 0.7390776
+typography_spectrum: 0.01519067
+layout_spectrum: 0.4357683
 name: icatchfoxes
